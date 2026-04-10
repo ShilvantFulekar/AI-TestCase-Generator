@@ -25,6 +25,3 @@ streamlit run app.py
 
 Reduces manual effort in QA by automatically generating test cases with better coverage.
 
-👨‍💻 Author
-
-Shilvant
